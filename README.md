@@ -1,4 +1,4 @@
-# Training Repository
+# Training 
 Welcome!
 
 This repository contains a comprehensive collection of all the task assignments and related work completed during my training period. It includes various projects, exercises, and documentation reflecting the skills and knowledge acquired throughout the training.
