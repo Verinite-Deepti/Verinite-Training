@@ -7,7 +7,7 @@ This repository serves as a comprehensive collection of all task assignments, pr
 
 ## Introduction
 
-This repository is designed to capture the work done during my software engineering internship. It includes a variety of projects, coding assignments, and documentation that reflect my growth and learning in software development.
+This repository is designed to capture the work done during my software engineering internship. It includes a variety of projects, coding assignments, and documentation.
 
 ## Repository Structure
 
