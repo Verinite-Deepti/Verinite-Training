@@ -13,12 +13,12 @@ This repository is designed to capture the work done during my software engineer
 
 The repository is organized into several key directories and files:
 
-- **`projects/`**: Contains completed projects, each in its own subdirectory. Each project folder typically includes source code, documentation, and any relevant configuration files.
+- **`projects/`**: Contains completed projects.Each project folder typically includes source code, documentation, and any relevant configuration files.
 - **`assignments/`**: Contains coding assignments and challenges completed as part of the training. These are organized by topic and difficulty.
 - **`documentation/`**: Includes detailed documentation for projects and assignments, such as setup instructions, usage guides, and explanations of key concepts.
 - **`README.md`**: This file provides an overview of the repository and instructions on how to navigate and utilize its contents.
 
-## Projects
+## Projects 
 
 - **Source Code**: The main implementation of the project.
   
